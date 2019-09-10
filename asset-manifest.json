@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cameroncbrownjr/ClickyGameDeployed/static/css/main.d8fef403.chunk.css",
+    "main.js": "/Cameroncbrownjr/ClickyGameDeployed/static/js/main.1674321f.chunk.js",
+    "main.js.map": "/Cameroncbrownjr/ClickyGameDeployed/static/js/main.1674321f.chunk.js.map",
+    "runtime~main.js": "/Cameroncbrownjr/ClickyGameDeployed/static/js/runtime~main.76078a7b.js",
+    "runtime~main.js.map": "/Cameroncbrownjr/ClickyGameDeployed/static/js/runtime~main.76078a7b.js.map",
+    "static/js/2.f28e5fb2.chunk.js": "/Cameroncbrownjr/ClickyGameDeployed/static/js/2.f28e5fb2.chunk.js",
+    "static/js/2.f28e5fb2.chunk.js.map": "/Cameroncbrownjr/ClickyGameDeployed/static/js/2.f28e5fb2.chunk.js.map",
+    "index.html": "/Cameroncbrownjr/ClickyGameDeployed/index.html",
+    "precache-manifest.bf7b1b0892f0a6a71cc5cb5dddd93115.js": "/Cameroncbrownjr/ClickyGameDeployed/precache-manifest.bf7b1b0892f0a6a71cc5cb5dddd93115.js",
+    "service-worker.js": "/Cameroncbrownjr/ClickyGameDeployed/service-worker.js",
+    "static/css/main.d8fef403.chunk.css.map": "/Cameroncbrownjr/ClickyGameDeployed/static/css/main.d8fef403.chunk.css.map"
+  }
+}
